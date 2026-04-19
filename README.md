@@ -4,6 +4,9 @@
 
 StudySync helps students manage their daily study tasks, deadlines, and productivity efficiently.
 
+
+## 🌐 Live Demo
+https://smart-study-planner-tan.vercel.app
 ---
 
 ## ✨ Features
