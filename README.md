@@ -70,12 +70,6 @@ service cloud.firestore {
 
 ---
 
-## 📸 Demo
-
-(Add screenshots here later)
-
----
-
 ## 🌟 Future Improvements
 
 * AI-based study suggestions
@@ -83,6 +77,3 @@ service cloud.firestore {
 
 ---
 
-## 👨‍💻 Author
-
-Lokesh
